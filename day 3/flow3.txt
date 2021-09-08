@@ -4,5 +4,6 @@ What is normalization ?
 How instagram project's schema is normalised.
 friend requests module in instagram 
 functions and procedures.
+Wrapping up and remaining features in the project.
 Questions
 views 
