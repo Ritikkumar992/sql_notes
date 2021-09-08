@@ -1,0 +1,18 @@
+Day 1 
+
+Introduction To SQL.
+Different Databases in sql Postgres, Mysql, etc.
+Online Setup on Clever Cloud.
+Showing, how to rin a sample query.
+Introduction to MySQL in CLI.
+
+How we are going to build Reels backend in SQL.
+
+How frontend is getting affected by changing backent to SQL (AXIOS, Fetch, API...) ?
+Creating Authintication with SQL with bcrypt, JWT.
+Frontend: Creating the required APIs (/login, /signup, /getUserFromToken, etc)
+	  Saving the token in the frontend and completing the auth's frontend part.
+
+Discussing the Schema of the reels application. 
+
+

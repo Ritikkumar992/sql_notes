@@ -1,0 +1,7 @@
+** Day 2 **
+Reels 
+
+POC For Subqueries, INSERT, UPDATE, DELETE and other required knowledge and CRUD operations in SQL.
+
+
+Instagram Posts Related APIs and their working.

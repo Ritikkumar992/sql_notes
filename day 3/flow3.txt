@@ -1,0 +1,8 @@
+** Day 3 **
+
+What is normalization ?
+How instagram project's schema is normalised.
+friend requests module in instagram 
+functions and procedures.
+Questions
+views 
