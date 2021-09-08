@@ -1,14 +1,11 @@
-> What is RDBMS?
-> Normalization in DBMS
-> Normalization Types in DBMS
-> Data Types in SQL
-
 **Database Commands**
 > Create Database Objects
 > Alter Table Statements
 > Drop Table Statements
 > Various Constraints
 > Creating Views
+> Functions and Procedures and Triggers
+
 
 **Table Commands**
 > Insert Statements
@@ -21,6 +18,7 @@
 > Sorting
 > Filtering
 
+
 **Comparison Operators**
 > NOT IN
 > IN
@@ -28,6 +26,9 @@
 > Example
 > LIKE
 > CASE Expression
+
+
+
 
 **Joins**
 > Joins
@@ -57,6 +58,7 @@
 	SQL DROP Database
 	SQL RENAME Database
 	SQL SELECT Database
+
 
 > SQL Table
 	What is Table
@@ -172,7 +174,11 @@
 	SQL ORDER BY DATETIME Datatype in SQL
 	SQL BETWEEN
 
+
+> What is RDBMS?
+> Normalization in DBMS
+> Normalization Types in DBMS
+> Data Types in SQL
+
+
 **PL/SQL** (Programming in SQL)
-
-
-
